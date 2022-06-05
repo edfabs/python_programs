@@ -1,0 +1,70 @@
+Ing. en Redes / Software
+Cursos y Seminarios
+Curso CCNA 200-301 Routing and Switching
+(Julio – Octubre 2021)
+Curso Cableado Estructurado
+(Mayo 2008)
+IPN – ESIME Zacatenco, Ciudad
+de México
+Curso de JavaScript, Jquery y Node.js
+(Agosto 2012) Mejorando.la Hotel Emporio Reforma, Ciudad de México
+Curso Plantas Proceso (Abril – Octubre 2013) Pemex Refinería Miguel Hidalgo, Tula de Allende Hidalgo
+Seminario Adquisición de datos vía Internet (Octubre 2013 – Enero 2014)
+IPN – ESIME Zacatenco, Ciudad de México
+Curso Desarrollo de Aplicaciones iOS
+(Mayo - ... 2016) Tecnológico de Monterrey Online, coursera.com
+Idiomas
+Ingles – Intermedio
+Áreas de Interés
+-Redes
+-Voz / IP
+-Programación Web -Aplicaciones móviles
+-Big Data
+-Electrónica -Microcontroladores
+-IoT (Internet of Things) -Virtualizavion de sistemas -Electrónica
+Habilidades Técnicas Electrónica (General), pogramacion de microcontroladores, sistemas minimos.
+Redes, Configuración de Routers y Switches Cisco y huawei.
+Uso de Linux, MacOS, Unix, Windows
+Web (PHP-Laravel- WordPress, Pyton-Django, SQL, MySQL, CSS, Javasript, Jquery, Ajax, HTML)
+C, C++
+iOS (Swift, XCode)
+Microsoft Office (Word, Excel, Acces, PowerPoint, Project) Otros (AutoCAD,)
+Ing. Edgar Fabian Suchett Altamirano (Ced. Prof. 8610144)
+Tel. 53526778, 88839075 Cel. 5527051607
+e-mail: suchettr@gmail.com; fabian.suchett@edfabs.com; Sitio: https://edfabs.github.io/, www.edfabs.com
+Objetivo Profesional: Hacer que mis conocimientos de redes y programación sean del más alto valor, para así contribuir al cumplimiento de los proyectos o simplemente manteniendo en buen estado sites e instalaciones de red. Siempre comprometido con mi trabajo, aportando soluciones para optimizar el proceso de creación de un producto o servicio, con orden, limpieza y fiel apego a las reglas, normatividad y buenas practicas.
+Experiencia
+Freelancer Enero 2022 – Actual.
+Fullstack Developer. Actividades: Desarrollo de aplicaciones desde paginas estaticas hasta e-commerce completos, trabajando con herramientas como Django de Python, Wordpress de PHP, y todo el stack basico de desarrollo web.(Sitios en desarrollo MARO)
+Refinería Miguel Hidalgo Enero 2018 – Enero 2022.
+Operario Especialista en Telecomunicaciones. Actividades: Soporte técnico en diferentes áreas. Áreas de trabajo: Redes – Administración de red para detección de fallas de servicio, Telefonía – Asistencia técnica en sitio para mantenimiento preventivo y correctivo, Radio – Mantenimiento preventivo y correctivo al sistema Trunking y a radios de comunicación, así como programación de los mismos, Medios de enlace – mantenimiento preventivo y correctivo la WAN de las telecomunicaciones en la Refinería de Tula (Antenas, guías de onda, modems, etc), SEAC (Servicio Estratégicos de Apoyo al Cliente) – Servicio a los sistemas SITAL(sistemas de telemedición de tanques de almacenamiento), VSAT (Comunicación de datos satelital), SIPOA (Aplicado a rastreo de vehículos vía satélite), SCADA (Supervisión de procesos industriales a distancia)
+Logros: Programación de switches y routers, voz sobre IP, mejor entendimiento de centrales telefónicas. Actualmente sigo como autodidacta en programación, con gran interes en DevNet de Cisco, desarrollado con lenguaje de programación python.
+Ferretería Carredana – Mayo 2020 – Marzo 2021
+Programador Senior. Actividades: Desarrollo de e-commerce basado en Wordpress y Woocomerce.
+Mccann World Group Mayo 2016 – Diciembre 2017
+Programador Senior Enero 2018 – Diciembre 2018 (1 año). Actividades: Programación de sistemas web para campañas de marketing para Chevrolet.
+Logros: Aprender Nuevos frameworks de programación web(Laravel, Django)
+Programador Jr Mayo 2016 – Enero 2018 (8 meses). Actividades: Maquetar plantillas html para envío de estas por correo electrónico masivo MRM.
+Logros: Dominar a la perfección la maquetación para email.
+Refinería Miguel Hidalgo / Octubre 2012 – Mayo 2016 (3 años 7 meses)
+Inventarista. Diciembre 2015 – Mayo 2016 (6 meses). Actividades: Corroborar que los vehículos, inmobiliario e instalaciones, se encontraran a resguardo de los usuarios y que estuvieran en buen estado.
+Logros: Utilización de software SAP R3 para administrar los bienes y resguardos de la empresa.
+Ayudante de Ingeniero. Enero 2015 – Noviembre 2015 (11 meses). Actividades: Llevar la parte administrativa de acuerdo a un presupuesto de reparaciones de plantas de proceso. El cual consistía en hacer reportes documentados de la mano de obra, material, maquinaria, equipo y herramientas que se utilizaban en la reparación.
+Logros: Administración de proyectos.
+Instrumentista. Enero 2014 – Diciembre 2014 (1 año). Actividades: Mantenimiento, instalaciones y/o reparaciones a la instrumentación de las Plantas de Proceso.
+Logros: Realizar los trabajos de más riesgo y los más importantes, entre ellos, reemplazar sensores de nivel de las cúpulas de los tanques de almacenamiento e instalar y probar equipo de seguridad de Fuego y Gas.
+Dibujo Técnico. Octubre 2012 – Diciembre 2013 (1 año 3 meses). Actividades: Hacer dibujos de las líneas de proceso, equipos e instalaciones de las Plantas de manera digital con AutoCAD.
+Logros: Excelente uso de AutoCAD.
+PCE Answer / Desarrollador Web. Octubre 2011 Octubre 2012 (1 año)
+Actividades: Mis actividades dentro de la empresa fueron varias; programación Web, creación de páginas Web, desarrollo de aplicaciones con la API de Twitter, y creación de scripts para proceso de archivos de texto.
+Logros: Pude manejar la API de twitter a un excelente nivel, fui de los primeros en utilizar los HashTag (#) para procesar la información en tiempo real.
+Once TV México / Servicio Social. Marzo 2011 Agosto 2011 (6 meses)
+Actividades: Mi función dentro del Canal fue en el área de sistemas nos ocupábamos tanto de las fallas que había en la red informática como actualizar y dar mantenimiento a las computadoras (en su mayoría con sistema operativo OS de MAC).
+Logros: Aprendí a manejar mejor el sistema operativo MAC y también en el Canal tuve mi primer acercamiento con la programación web ya que desarrollaban aplicaciones web para todo tipo de situaciones, un ejemplo de esto era el control de acceso a las instalaciones.
+Escuela Preparatoria (La Fontain)/ Ayudante de profesor de programación. Junio 2009
+Actividad: Desarrollar scripts en ActionScript sencillos para la enseñanza de programación orientada a objetos para alumnos de nivel medio superior.
+Logros: Descubrir que soy bueno explicando y mi gusto por las exposiciones.
+Formación Académica
+2007-2011 Ingeniería en Comunicaciones y Electrónica (Ced. Prof. 8610144)
+INSTITUTO POLITECNICO NACIONAL
+Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Zacatenco

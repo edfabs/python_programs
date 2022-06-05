@@ -1,0 +1,4 @@
+In Python you can read a file line by line
+In Python you can create a class to represent objecto of the real world
+In Python you can use variables withless delcare 
+In Python you can read a list when you pass to a functon
