@@ -1,7 +1,3 @@
-from cgi import print_form
-from http.client import PROXY_AUTHENTICATION_REQUIRED
-
-
 rows = 5
 columns = 9
 
